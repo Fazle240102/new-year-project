@@ -16,7 +16,7 @@
   width: 1000px;
   width: 1000px;
   height: 500px;
-  margin: 50px 140px 80px;
+  margin: 20px 140px 120px;
   text-align: center;
   background-repeat: no-repeat;
   background-position: center;
@@ -29,4 +29,28 @@
   font-family: "Merriweather", serif;
   font-weight: 900;
   padding-top: 160px;
+}
+
+/* discount styles */
+
+.discount {
+  color: #f00;
+  font-weight: 700;
+  font-family: "Inter", sans-serif;
+  text-align: center;
+  margin-bottom: 120px;
+}
+.discount h1 {
+  font-size: 40px;
+}
+.discount h3 {
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 40px;
+  margin-bottom: 6px;
+}
+.discount h2 {
+  color: #070211;
+  font-size: 28px;
+  margin-bottom: 40px;
 }
