@@ -197,6 +197,11 @@
 }
 .portfolio-img div > img {
   width: 32%;
+  transition: transform 0.3s ease-in-out;
+  cursor: pointer;
+}
+.portfolio-img div > img:hover {
+  transform: scale(1.1);
 }
 
 /* subscribe styles */
