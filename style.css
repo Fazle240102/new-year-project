@@ -170,12 +170,12 @@
 /* footer styles */
 
 .footer {
+  color: #fff;
   background-color: #070211;
   padding: 120px 140px;
   margin-top: 120px;
 }
 .footer-1 {
-  color: #fff;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -204,5 +204,26 @@
 }
 .footer-social img {
   width: 40px;
+  cursor: pointer;
+}
+.footer-endline {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer-btn {
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 4px;
+  border: none;
+  padding: 4px 14px;
+  color: #fff;
+  background-color: transparent;
+  cursor: pointer;
+}
+.footer-btn:hover {
+  border-radius: 4px;
+  color: #000;
+  background-color: #fff;
   cursor: pointer;
 }
