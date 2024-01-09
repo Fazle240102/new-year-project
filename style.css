@@ -167,6 +167,28 @@
   width: 40%;
 }
 
+/* portfolio styles */
+
+.portfolio-container {
+  font-family: "Inter", sans-serif;
+  margin: 120px 140px 0;
+}
+.portfolio-container h5 {
+  color: #f00;
+}
+.portfolio-container h1 {
+  font-family: "Merriweather", serif;
+  margin-top: 12px;
+  margin-bottom: 20px;
+}
+.portfolio-container p {
+  color: #070211;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  margin-bottom: 50px;
+}
+
 /* subscribe styles */
 
 .subscribe-container {
