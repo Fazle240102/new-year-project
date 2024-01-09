@@ -191,3 +191,18 @@
 .footer-contact div > img {
   width: 16px;
 }
+.footer-social {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  border-top: 2px solid #ffffff26;
+  border-bottom: 2px solid #ffffff26;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.footer-social img {
+  width: 40px;
+  cursor: pointer;
+}
