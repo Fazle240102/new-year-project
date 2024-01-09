@@ -166,3 +166,28 @@
 .coming-right img {
   width: 40%;
 }
+
+/* footer styles */
+
+.footer {
+  background-color: #070211;
+  padding: 120px 140px;
+  margin-top: 120px;
+}
+.footer-1 {
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer-1 p {
+  line-height: 24px;
+}
+.footer-contact div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.footer-contact div > img {
+  width: 16px;
+}
